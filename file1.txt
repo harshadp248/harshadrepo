@@ -1,5 +1,1 @@
-This is for commit 1
-This is for commit 2
-This is for commit 3
-This is for commit 4
-This is for commit 5
+Deleting all previos text and addig for qstn 2
